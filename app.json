@@ -2,7 +2,7 @@
 "name": "Tear PC",
   "description": "Lightweight WhatsApp Bot",
   "repository": "https://github.com/tearffpc/Queen-Alexa",
-  "logo": ""https://www.linkpicture.com/q/91-95628-81715-20211108_150924.webp,
+  "logo": "https://www.linkpicture.com/q/91-95628-81715-20211108_150924.webp",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
 
     "buildpacks": [
